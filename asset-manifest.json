@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.d9a7a9b8.chunk.css",
-    "main.js": "/myapp/static/js/main.d23e7239.chunk.js",
-    "main.js.map": "/myapp/static/js/main.d23e7239.chunk.js.map",
-    "runtime~main.js": "/myapp/static/js/runtime~main.46aa2b9b.js",
-    "runtime~main.js.map": "/myapp/static/js/runtime~main.46aa2b9b.js.map",
-    "static/js/2.9839af83.chunk.js": "/myapp/static/js/2.9839af83.chunk.js",
-    "static/js/2.9839af83.chunk.js.map": "/myapp/static/js/2.9839af83.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.4a2b5c66ea10f7378558eee8709d97ae.js": "/myapp/precache-manifest.4a2b5c66ea10f7378558eee8709d97ae.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/main.d9a7a9b8.chunk.css.map": "/myapp/static/css/main.d9a7a9b8.chunk.css.map"
+    "main.css": "/my-react-app-deaux/static/css/main.b88a22cf.chunk.css",
+    "main.js": "/my-react-app-deaux/static/js/main.fc9bd50a.chunk.js",
+    "main.js.map": "/my-react-app-deaux/static/js/main.fc9bd50a.chunk.js.map",
+    "runtime~main.js": "/my-react-app-deaux/static/js/runtime~main.e138b3b0.js",
+    "runtime~main.js.map": "/my-react-app-deaux/static/js/runtime~main.e138b3b0.js.map",
+    "static/js/2.c689aba0.chunk.js": "/my-react-app-deaux/static/js/2.c689aba0.chunk.js",
+    "static/js/2.c689aba0.chunk.js.map": "/my-react-app-deaux/static/js/2.c689aba0.chunk.js.map",
+    "index.html": "/my-react-app-deaux/index.html",
+    "precache-manifest.db425870817b4413c8e9c469d07844d7.js": "/my-react-app-deaux/precache-manifest.db425870817b4413c8e9c469d07844d7.js",
+    "service-worker.js": "/my-react-app-deaux/service-worker.js",
+    "static/css/main.b88a22cf.chunk.css.map": "/my-react-app-deaux/static/css/main.b88a22cf.chunk.css.map"
   }
 }
